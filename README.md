@@ -17,10 +17,10 @@ A Software Engineer, who loves to code using Javascript and its libraries.
 <br>
 
 ### Languages and Tools:
-<img align="left" alt="Vs Code" width = "22px" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Visual_Studio_Code_0.10.1_icon.png">
-<img align="left" alt="Nodejs" width = "22px" src="https://upload.wikimedia.org/wikipedia/commons/6/67/NodeJS.png">
-<img align="left" alt="ReactJs" width = "22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/React.png">
-<img align="left" alt="MongoDB" width = "22px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg">
+<img align="left" alt="Vs Code" height = "22px" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Visual_Studio_Code_0.10.1_icon.png">
+<img align="left" alt="Nodejs" height = "22px" src="https://upload.wikimedia.org/wikipedia/commons/6/67/NodeJS.png">
+<img align="left" alt="ReactJs" height = "22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/React.png">
+<img align="left" alt="MongoDB" height = "22px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg">
 <br> <br>
 
 <img align="left" alt="Dheeraj's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dheeraj-95&show_icons=true&hide_border=true&theme=radical"/>
