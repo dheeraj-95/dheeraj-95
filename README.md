@@ -25,5 +25,5 @@ A Software Engineer, who loves to code using Javascript and its libraries.
 <img align="left" alt="CSS3" height = "22px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg">
 <br> <br>
 
-<img align="left" alt="Dheeraj's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dheeraj-95&show_icons=true&hide_border=true&theme=radical"/>
+<img align="left" alt="Dheeraj's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dheeraj-95&show_icons=true&hide_border=true&theme=radical"/> <br>
 <img align="left" alt="Dheeraj's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheeraj-95&layout=compact" />
