@@ -3,7 +3,7 @@ A Software Engineer, who loves to code using Javascript and its libraries.
 
 ### I'm Currently :
 - 🔭 Working on Admin Dashboard which has Recordings Stored in UI
-- 🌱 Learning <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/React.png"> <img height="20" src = "https://upload.wikimedia.org/wikipedia/commons/6/67/ NodeJS.png"> <img height = "20" src ="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg">
+- 🌱 Learning <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/React.png"> <img height="20" src = "https://upload.wikimedia.org/wikipedia/commons/6/67/NodeJS.png"> <img height = "20" src ="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg">
 
 ### Reach me :
 
@@ -15,6 +15,7 @@ A Software Engineer, who loves to code using Javascript and its libraries.
 <img align="left" alt="Dheeraj G | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <br>
+
 ### Languages and Tools:
 
 
