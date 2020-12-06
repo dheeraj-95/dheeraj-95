@@ -3,7 +3,7 @@ A Software Engineer, who loves to code using Javascript and its libraries.
 
 ### I'm Currently :
 - 🔭 Working on Admin Dashboard which has Recordings Stored in UI
-- 🌱 Learning <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/React.png"> <img height="20" src = "https://upload.wikimedia.org/wikipedia/commons/6/67/NodeJS.png"> <img height = "20" src ="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg">
+- 🌱 Learning <img height="20px" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/React.png"> <img height="20px" src = "https://upload.wikimedia.org/wikipedia/commons/6/67/NodeJS.png"> <img height = "20px" src ="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg">
 
 ### Reach me :
 
@@ -21,6 +21,8 @@ A Software Engineer, who loves to code using Javascript and its libraries.
 <img align="left" alt="Nodejs" height = "22px" src="https://upload.wikimedia.org/wikipedia/commons/6/67/NodeJS.png">
 <img align="left" alt="ReactJs" height = "22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/React.png">
 <img align="left" alt="MongoDB" height = "22px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg">
+<img align="left" alt="HTML5" height = "22px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg">
+<img align="left" alt="CSS3" height = "22px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg">
 <br> <br>
 
 <img align="left" alt="Dheeraj's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dheeraj-95&show_icons=true&hide_border=true&theme=radical"/>
