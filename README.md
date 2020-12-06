@@ -9,3 +9,5 @@ A Software Engineer, who loves to code using Javascript and its libraries.
 
 
 ![Dheeraj's github stats](https://github-readme-stats.vercel.app/api?username=dheeraj-95&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dheeraj-95)](https://github.com/dheeraj-95/)
