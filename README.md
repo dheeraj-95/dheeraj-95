@@ -22,4 +22,5 @@ A Software Engineer, who loves to code using Javascript and its libraries.
 <br> <br>
 
 <img align="left" alt="Dheeraj's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dheeraj-95&show_icons=true&hide_border=true&theme=radical"/>
+<br> <br>
 <img align="left" alt="Dheeraj's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheeraj-95&layout=compact" />
