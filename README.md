@@ -3,10 +3,9 @@ A Software Engineer, who loves to code using Javascript and its libraries.
 
 ### I'm Currently :
 - 🔭 Working on Admin Dashboard which has Recordings Stored in UI
-- 🌱 Learning <img height="20px" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/React.png"> <img height="20px" src = "https://upload.wikimedia.org/wikipedia/commons/6/67/NodeJS.png"> <img height = "20px" src ="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg">
+- 🌱 Learning NodeJS, MongoDB and ReactJS
 
 ### Reach me :
-
 <a href="https://www.linkedin.com/in/dheeraj-gumudavelli/">
 <img align="left" alt="Dheeraj G | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -14,6 +13,7 @@ A Software Engineer, who loves to code using Javascript and its libraries.
 <a href="https://twitter.com/Dheeraj37086597">
 <img align="left" alt="Dheeraj G | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
+
 <br>
 
 ### Languages and Tools:
